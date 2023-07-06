@@ -1,5 +1,6 @@
 import React from "react";
 import Weather from "./Weather";
+import "./App.css";
 
 export default function App() {
   return (
@@ -11,7 +12,6 @@ export default function App() {
           <a
             href="https://github.com/sylviass-io/1000react-weather-app"
             target="_blank"
-            rel="noopener noreferrer"
           >
             open-sourced
           </a>{" "}

@@ -1,11 +1,7 @@
 {
   "short_name": "React",
   "name": "React Developer Tools",
-  "icons": {
-    "16": "favicon.ico",
-    "48": "logo192.png",
-    "128": "logo512.png"
-  },
+  "icons": [],
   "permissions": ["storage"],
   "manifest_version": 2,
   "version": "4.27.8 (5/19/2023)",
